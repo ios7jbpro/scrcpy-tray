@@ -1,0 +1,30 @@
+# scrcpy-tray .gitignore
+
+# Executables and DLLs
+*.exe
+*.dll
+scrcpy-server
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Inno Setup
+Output/
+scrcpy-tray-setup.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Project-specific
+favorites.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
