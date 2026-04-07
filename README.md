@@ -30,3 +30,7 @@ A Python-based system tray application for managing multiple Android devices usi
 
 ## License
 MIT
+
+---
+
+*This project is entirely LLM generated.*
